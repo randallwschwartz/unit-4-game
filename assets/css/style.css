@@ -1,0 +1,37 @@
+/*
+CSS for CrystalsCollector Game
+*/
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: lightblue;
+}
+
+div {
+    border: 10 px;
+}
+
+#orange {
+    background: rgb(231, 134, 54);
+    color: white;
+}
+
+#yellow {
+    background: tan;
+    color: green;
+}
+
+#lightGreen {
+    background: green;
+    color: purple;
+}
+
+#blue {
+    background: tan;
+    color: green;
+}
+
+#darkGreen {
+    background: darkcyan;
+    color: white;
+}
