@@ -27,8 +27,6 @@ $(document).ready(function() {
     }
 
     function gameBegin() {
-        // document.getElementById("numWins").innerHTML = wins;
-        // document.getElementById("numLosses").innerHTML = losses;
         $("#num_wins").text(wins);
         $("#num_losses").text(losses);
         console.log("Wins: " + wins);
