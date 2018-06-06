@@ -2,27 +2,31 @@
 CSS for CrystalsCollector Game
 */
 
-body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background: lightblue;
-}
-
-div {
-    border: 10 px;
+html, body {
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    /* background-color: rgb(178, 221, 236); */
+    background-image: url("../images/background.jpg");
+    height: 100%;
+    margin: 0;
+    border-style: none;
+    border: none;
 }
 
 #orange {
     background: rgb(231, 134, 54);
     color: white;
+    height: 100px;
+    font-weight: bold;
 }
 
 #yellow {
     background: tan;
     color: green;
+    font-weight: bold;
 }
 
 #lightGreen {
-    background: green;
+    background: rgb(75, 189, 75);
     color: purple;
 }
 
@@ -31,7 +35,13 @@ div {
     color: green;
 }
 
-#darkGreen {
+#darkGreen1 {
     background: darkcyan;
     color: white;
+}
+
+#darkGreen2 {
+    background: darkcyan;
+    color: white;
+    height: 100px;
 }
