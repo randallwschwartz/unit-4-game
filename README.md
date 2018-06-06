@@ -1,1 +1,3 @@
 # unit-4-game
+
+What the project does: In this game, a user selects crystals on the screen to accumulate points.  The goal is to accumulate a total number of points equal to a random number assigned at the beginning of the game and displayed on the screen.  Each crystal is randomly assigned a point value that is hidden from the user.  By selecting crystals one at a time, the user can determine the point values assigned to the crystals and determine how to select the crystals to achieve a total number of points equal to the random number.
